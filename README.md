@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/gitforsteven)
+[![kwangsoo's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitforsteven&theme=blue-green)](https://github.com/gitforsteven)
 
 <!--
 **gitforsteven/gitforsteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
